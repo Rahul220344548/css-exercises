@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.number-one,
+.number-three,
+.number-five{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.number-three {
+    font-size: 1.5rem;
+}
+
+#number-two {
+    color: blue;
+    font-size: 1.5rem;
+}
+
+#number-four{
+    background-color:  hsl(120, 100%, 75%);
+    font-size: 1rem;
+    font-weight: bolder;
+}
